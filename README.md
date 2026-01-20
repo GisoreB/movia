@@ -9,7 +9,7 @@ enjoyable way to discover and manage entertainment content.
 
 ## ✨ Key Features
 
-• Onboarding experience for new users
+ * Onboarding experience for new users
 • Secure authentication (Login & Sign up)
 • Modern home screen with featured content
 • Detailed movie and TV show pages
