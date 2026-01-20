@@ -1,16 +1,20 @@
-# movia
+# 🎬 movia Movie & TV Show App
 
-A new Flutter project.
+Discover, explore, and keep track of your favorite movies and TV shows in one beautiful app.
+Built with Flutter for smooth performance and a modern experience, this app makes it easy
+to browse content, search what you love, and manage your watchlist.
+Whether you’re a movie lover or a TV series fan, this app gives you a clean, simple, and 
+enjoyable way to discover and manage entertainment content.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Onboarding experience for new users
+• Secure authentication (Login & Sign up)
+• Modern home screen with featured content
+• Detailed movie and TV show pages
+• Powerful search functionality
+• Favorites to save what you love
+• Personal user profile
+• Light and dark themes
+• Fast, smooth, and responsive Flutter UI
