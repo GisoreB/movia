@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "11887258970",
+    "project_id": "movia-flutterflow",
+    "storage_bucket": "movia-flutterflow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11887258970:android:fc32b2bd4f5ab64188d763",
+        "android_client_info": {
+          "package_name": "com.kazungudev.movia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11887258970-n18jk90aitdfs2d3clg5falq4v7sdgd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXqUshMGiVNUEmlv7epDUBtLmqn1xopo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11887258970-n18jk90aitdfs2d3clg5falq4v7sdgd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11887258970-e7t53ucracif3janrma8tvb5e22rkuah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.moviea"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11887258970:android:c1c4e8b7476d80dd88d763",
+        "android_client_info": {
+          "package_name": "com.kazungudev.moviea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11887258970-lmagfu05ho3gls97eo8bi9a8c0h29lql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazungudev.moviea",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "11887258970-n18jk90aitdfs2d3clg5falq4v7sdgd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXqUshMGiVNUEmlv7epDUBtLmqn1xopo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11887258970-n18jk90aitdfs2d3clg5falq4v7sdgd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11887258970-e7t53ucracif3janrma8tvb5e22rkuah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.moviea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
